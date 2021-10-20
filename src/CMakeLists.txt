@@ -1,0 +1,1 @@
+add_library(MyFunction SemiGlobalMatching.cpp, sgm_util.cpp, stdafx.cpp)

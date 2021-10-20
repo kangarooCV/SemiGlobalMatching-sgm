@@ -1,0 +1,3 @@
+F:/Desktop/My_file/My_Projects/SGM/clion/SemiGlobalMatching-master/cmake-build-debug/CMakeFiles/SemiGlobalMatching_master.dir
+F:/Desktop/My_file/My_Projects/SGM/clion/SemiGlobalMatching-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Desktop/My_file/My_Projects/SGM/clion/SemiGlobalMatching-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
